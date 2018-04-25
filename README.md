@@ -2,11 +2,9 @@
 Just a fun little repo. 
 
 
-<summary>hello
-  <details>
+
+  <details><summary>hello</summary>
   sdkjlasl;kdj
     sdlkjsalk;dj
     as;lkdjas;lkdj
   </details>
-  
-</summary>
